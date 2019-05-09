@@ -1,7 +1,7 @@
 # Gene_links_organizer
 A web page to organise information and links of genes
 
-##Description
+## Description
 This was my final project of the course "Programming Foundations with Python" at Udacity (June 2015). 
 It consits on a way to make a web page to organise information and links of genes, specially for small projects.
 For this purpose, I made a procedure that automatically creates an index of the genes and a customized page for each gene (3 examples are shown).
