@@ -10,8 +10,8 @@ The python files are:
 prot_info.py (class)                                     
 proteins_interest.py (instances and procedures to create the web page).
 
-Html/css files:
-template_prot.html: empty file
+Html/css files:                                                                                                                       
+template_prot.html: empty file                                                                                                            
 prot_links1.css: contains the format of the page.
 
 The execution of **'proteins_interest.py'** will automatically create the index and each gene page, and open the index to navegate to each gene.
